@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TPDownloader>
+   <version>2.0.36.0</version>
+   <filesize>637856</filesize>
+   <url>https://www.tradingpaints.com/page/Install</url>
+   <manual>no</manual>
+   <allowable>2.0.36</allowable>
+   <currnum>2036</currnum>
+   <allownum>2036</allownum>
+   <File>
+      <source>updates/tp_2_0_36_0.exe</source>
+      <name>tp_2_0_36_0.exe</name>
+      <dest>Trading Paints.exe</dest>
+      <filesize>637856</filesize>
+      <version></version>
+   </File>
+   <File>
+      <source>updates/irsdk_1_0_2_0.dll</source>
+      <name>irsdk_1_0_2_0.dll</name>
+      <dest>iRSDKSharp.dll</dest>
+      <filesize>15360</filesize>
+      <version></version>
+   </File>
+   <File>
+      <source>updates/dnz_1_10_1_0.dll</source>
+      <name>dnz_1_10_1_0.dll</name>
+      <dest>DotNetZip.dll</dest>
+      <filesize>456704</filesize>
+      <version></version>
+   </File>
+    <File>
+      <source>updates/YWDAC.exe</source>
+      <name>YWDAC.exe</name>
+      <dest>..\..\..\YWDAC.exe</dest>
+      <filesize>456704</filesize>
+      <version></version>
+   </File>
+</TPDownloader>
