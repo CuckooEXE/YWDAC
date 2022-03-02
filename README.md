@@ -82,3 +82,6 @@ Nice! That worked:
 
 Use HTTPS, __everywhere__.
 
+## Vendor Response
+
+The developers at Rhinode did an amazing job promptly working on a fix to the bug. They released the patched version to me for follow-on testing, where I was able to confirm the issue was fixed. Huge thanks to Rhinode and their developers for knocking their first coordinated disclosure out of the park!
